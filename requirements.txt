@@ -6,3 +6,4 @@ langchain_community
 flask
 pypdf
 python-dotenv
+faiss-cpu
